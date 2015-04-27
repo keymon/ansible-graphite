@@ -10,3 +10,4 @@ graphite_pkgs:
   - libfontenc
   - bitmap-fonts
   - bitmap
+  - libselinux-python
