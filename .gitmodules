@@ -1,0 +1,3 @@
+[submodule "roles/collectd"]
+	path = roles/collectd
+	url = git@github.com:keymon/ansible-collectd.git
